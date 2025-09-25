@@ -1,12 +1,13 @@
-<nav>
-    {% for item in site.data.navigation %}
-        <a href="{{ item.link | relative_url }}"
-            {% if page.url == item.link %}
-                class="current"
-            {% endif %}>
-
-            {{ item.name }}
-
-        </a>
-    {% endfor %}
+<nav class="navbar">
+    <div class="navbar-left">
+        <a href="{{ '/' | relative_url }}" class="home navbar-item-left"> Home </a>
+        <a href="{{ '/blog.html/' | relative_url }}" class="blog navbar-item-left">Blog</a>
+        <a href="{{ '/thoughts.html/' | relative_url }}" class="thoughts navbar-item-left">Thoughts</a>
+        <a href="{{ '/gallery.html/' | relative_url }}" class="gallery navbar-item-left">Gallery</a>
+    </div>
+    <div class="navbar-right">
+        <a href="{{ '/papers.html/' | relative_url }}" class="papers navbar-item-right">Papers</a>
+        <a href="{{ '/projects.html/' | relative_url }}" class="projects navbar-item-right"">Projects</a>
+        <a href="{{ '/about.html/' | relative_url }}" class="about navbar-item-right"">About</a>
+    </div>
 </nav>
