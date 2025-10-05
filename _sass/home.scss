@@ -1,0 +1,23 @@
+.body-home {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-gap: 1em;
+  justify-items: center;
+  align-items: start;
+}
+
+.body-home-left {
+  border-style: solid;
+  border-width: 10px;
+}
+
+.body-home-middle {
+  border-style: solid;
+  border-width: 10px;
+}
+
+.body-home-right {
+  border-style: solid;
+  border-width: 10px;
+}

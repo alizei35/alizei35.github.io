@@ -1,0 +1,41 @@
+.navbar {
+  background-color: #191724;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5em 0.5em;
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.navbar-left {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.navbar-item-left {
+  background-color: #eb6f92;
+  color: #26233a;
+  padding: 3px 10px;
+  border-radius: 1000px;
+  box-shadow: 0 0 5px #eb6f92;
+}
+
+.navbar-right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.navbar-item-right {
+  background-color: #f6c177;
+  color: #26233a;
+  padding: 3px 10px;
+  border-radius: 1000px;
+  box-shadow: 0 0 5px #f6c177;
+}
