@@ -1,0 +1,14 @@
+---
+layout: default
+title: Blog
+---
+<h1>Latest Posts</h1>
+
+<ul>
+    {% for thought in site.thoughts %}
+        <li>
+            <h2><a href="{{ thought.url }}">{{ thought.title }}</a></h2>
+            {{ thought.content }}
+        </li>
+    {% endfor %}
+</ul>

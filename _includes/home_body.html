@@ -3,6 +3,20 @@
     <aside class="body-home-item body-home-left">
         <section class="body-home-left-item body-home-left-thoughts">
             <h3>Thoughts</h3>
+            <div class="body-home-left-thoughts-box">
+                {% assign sorted_thoughts = site.thoughts | sort: 'date' | reverse %}
+                {% for thought in sorted_thoughts limit:5 %}
+                    <h4><a href="{{ thought.url }}">{{ thought.title }}</a></h4>
+                    <p> {{ thought.excerpt | strip_html | truncate: 100 }} </p>
+
+                    <div class="body-home-left-thoughts-separator">
+                        <p class="body-home-left-thoughts-date">
+                            {{ thought.date | date: "%H:%M, %d/%m/%y" }}
+                        </p>
+                        <hr class="body-home-left-thoughts-line">
+                    </div>
+                {% endfor %}
+            </div>
         </section>
         <section class="body-home-left-item body-home-left-gallery">
             <h3>Gallery</h3>

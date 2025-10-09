@@ -1,3 +1,18 @@
 baseurl: ""
 url: "https://alizei35.github.io/"
 
+timezone: Europe/Berlin
+
+collections:
+  thoughts:
+    output: true
+    permalink: /thought/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "thoughts"
+    values:
+      layout: "thought"
+      author: "Anar"
+
