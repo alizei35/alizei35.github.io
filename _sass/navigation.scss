@@ -6,8 +6,10 @@
   padding: 0.5em 0.5em;
 }
 
-.navbar a {
+.navbar-item {
   text-decoration: none;
+  padding: 0.15em 0.6em 0.2em 0.6em;
+  border-radius: 1000px;
 }
 
 .navbar-left {
@@ -20,9 +22,7 @@
 .navbar-item-left {
   background-color: #eb6f92;
   color: #26233a;
-  padding: 3px 10px;
-  border-radius: 1000px;
-  box-shadow: 0 0 5px #eb6f92;
+  box-shadow: 0 0 0.4em #eb6f92;
 }
 
 .navbar-right {
@@ -35,7 +35,5 @@
 .navbar-item-right {
   background-color: #f6c177;
   color: #26233a;
-  padding: 3px 10px;
-  border-radius: 1000px;
-  box-shadow: 0 0 5px #f6c177;
+  box-shadow: 0 0 0.4em #f6c177;
 }
