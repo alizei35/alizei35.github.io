@@ -5,7 +5,8 @@ title: Blog
 <h1>Latest Posts</h1>
 
 <ul>
-    {% for thought in site.thoughts %}
+    {% assign sorted_thoughts = site.thoughts | sort: 'date' | reverse %}
+    {% for thought in sorted_thoughts %}
         <li>
             <h2><a href="{{ thought.url }}">{{ thought.title }}</a></h2>
             {{ thought.content }}
