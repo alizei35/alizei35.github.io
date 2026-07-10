@@ -1,0 +1,6 @@
+---
+title: "Hər göz bir görmür"
+date: "2026-07-11 00:17:00"
+---
+
+Bəyaqları random bir dayının facebook-da paylaşdığı şəkillər çıxdı qabağıma. Heç dostluğumda da yoxdu, ortaq dostum da yoxdu, sadəcə facebook niyəs belə bir şey eləmək istədi. Dayı Kölndə gəzməyə gəlibmiş, ordan şəkillər çəkib paylaşmışdı. Öz-özümə dedim, mən də Kölnə getdim, amma heç başımı qaldırıb ətrafa baxmadım, baxmaq istəmədim. Sadəcə o məşhur kilsəni görüb Köln elə bundan ibarətdi deyib boş boş fırlandım. Dayının paylaşdığı şəkillərə baxıram, random random yerlər, random şəkillər, heç qəşəng də deyillər, amma niyəsə o şəkilləri dayı paylaşıb deyə qəşəng idilər. Dayı o şəkilləri çəkəndə bir gözəllik görüb çəkdiyi şəkildə, bir an o şəkillərə baxanda mən də görmüş kimi oldum o gözəllikləri. Görmək, əylənmək istəyən adam üçün hər yerdə gözəllik var imiş. Sadəcə görməyi bacarmaq lazımdı. Hələki başım çox qarışıqdı, Köln dibimdə olsa da getməyə çox vaxtım yoxdu. Amma bir gün gedib dayının gördüklərini görməyə çalışacam. Tək Köln deyil, eyni şeyləri bəlkə Aachendə də görmək olar. Səməd Vurğunun hekayəsi yadıma düşdü, Göyəzən haqqında. Mənə də Göyəzən gözəl görsənir, amma gözəl görməyi bacarmayan bir gözə bir təpədən fərqi yoxdu, vurğun gözlərlə baxmaq lazım imiş dünyaya. Onda görürsən möcüzələri.
